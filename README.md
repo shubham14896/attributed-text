@@ -6,6 +6,6 @@ Add multiple type of styling in text like foregorund color, background color, st
 
 
 
-![Preview](https://github.com/shubham14896/attributed-text/blob/master/Attributed-text.png)
+![Preview](https://github.com/shubham14896/attributed-text/blob/master/Attribute-text2.png)
 
 [Reference](https://developer.apple.com/documentation/foundation/nsattributedstring/key)
