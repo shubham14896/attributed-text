@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Attributed Label.xcodeproj">
+      location = "self:Attributed Text Example 2.xcodeproj">
    </FileRef>
 </Workspace>

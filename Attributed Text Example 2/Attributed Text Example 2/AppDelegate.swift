@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Attributed Label
+//  Attributed Text Example 2
 //
 //  Created by Shubham Gupta on 6/6/18.
 //  Copyright © 2018 Shubham Gupta. All rights reserved.
