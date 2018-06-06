@@ -1,2 +1,1 @@
-# attributed-text
-Attribued Text assigned to UIlabel, Swift.
+# Attributed Text assigned to UILabel, Swift
